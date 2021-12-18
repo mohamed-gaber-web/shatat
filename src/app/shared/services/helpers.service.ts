@@ -48,4 +48,5 @@ export class HelpersService {
     this.translate.get(word).subscribe(res => translation = res);
     return translation;
   }
+
 }
