@@ -1,0 +1,39 @@
+.img-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  ion-avatar {
+    width: 60px;
+    margin: 5px 0;
+    height: 60px;
+  }
+
+  ion-label {
+    font-size: 15px;
+    padding-left: 10px;
+  }
+}
+
+/* end header top */
+
+.img-langauge {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  right: 13px;
+  top: 14px;
+  border: 1px solid #ccc;
+}
+
+.mat-expansion-panel-header-title {
+  color: var(--ion-color-second-app);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.mat-expansion-panel-body {
+  font-size: 16px;
+  color: #333;
+  font-weight: 400;
+}

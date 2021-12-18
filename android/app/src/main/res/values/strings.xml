@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">e-asy learn</string>
+    <string name="title_activity_main">e-asy learn</string>
+    <string name="package_name">app.io.easylearn</string>
+    <string name="custom_url_scheme">app.io.easylearn</string>
+</resources>
